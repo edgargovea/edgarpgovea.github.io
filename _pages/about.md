@@ -10,18 +10,18 @@ Data Analyst with a PhD in Physics and strong quantitative background, specializ
 
 [PUBLICACIONES](https://edgargovea.github.io/edgarpgovea.github.io/publications/)
 
-1. ‘Nonrelativistic Proca stars: Spherical stationary and multi-frequency states’
-Emmanuel Chávez Nambo, Alberto Diez-Tejedor, Edgar Preciado-Govea, Armando A. Roque, and Olivier Sarbach, Phys. Rev. D 111, 064065 
+1. **‘Nonrelativistic Proca stars: Spherical stationary and multi-frequency states’**
+Emmanuel Chávez Nambo, Alberto Diez-Tejedor, Edgar Preciado-Govea, Armando A. Roque, and Olivier Sarbach, Phys. Rev. D 111, 064065
+[arXiv](https://arxiv.org/abs/2412.06901)
 
-2. ‘Linear stability of nonrelativistic proca stars’
+
+2. **‘Linear stability of nonrelativistic proca stars’**
 Emmanuel Chávez Nambo, Alberto Diez-Tejedor, Edgar Preciado-Govea, Armando A. Roque, and Olivier Sarbach
+[arXiv](https://www.arxiv.org/abs/2512.04376)
 
-‘Cosmic Energy Density: The Fermion Case’ 
+3. **‘Cosmic Energy Density: The Fermion Case’** 
 Cristian Armendariz-Picon, Alberto Diez-Tejedor, Edgar Preciado-Govea
-(por publicarse).
-
-3. **S. Apellido**  
-   *Preprint title*, arXiv:XXXX.XXXXX (Year).
+(to be submited).
 
 
 A data-driven personal website
