@@ -9,6 +9,7 @@ redirect_from:
 Data Analyst with a PhD in Physics and strong quantitative background, specialized in data analysis, statistical modeling, and computational problem-solving. Experienced in using Python Programming Language, SQL, and data visualization tools to extract insights from complex datasets and support data-driven decision-making. 
 
 [**Publications**](https://edgargovea.github.io/edgarpgovea.github.io/publications/)
+======
 
 1. **‘Nonrelativistic Proca stars: Spherical stationary and multi-frequency states’**
 Emmanuel Chávez Nambo, Alberto Diez-Tejedor, Edgar Preciado-Govea, Armando A. Roque, and Olivier Sarbach, Phys. Rev. D 111, 064065
@@ -35,14 +36,15 @@ Impartió el curso de Mecánica Clásica a nivel licenciatura. Creó materiales 
 Impartió el curso de laboratorio de Mecánica Ondulatoria, de Fluidos y Calor. Desarrolló el análisis estadístico de datos usando lenguaje de Programación Python y dirigió la elaboración de reportes técnicos. Realizó el seguimiento individual del desempeño estudiantil.
 
 
-Getting started
+Education
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+
+2021-2025		Phd in Physics, Universidad de Guanajuato
+Supervisor:		Dr. Alberto Diez Tejedor
+Título de tesis: 		‘Fermionic and Bosonic Dark Matter Models’ 
+ 
+A combination of analytical, numerical, and computational methods for solving astrophysical compact objects and analyzing the gravitational particle production of scalar and fermionic dark matter.
+
 
 Site-wide configuration
 ------
