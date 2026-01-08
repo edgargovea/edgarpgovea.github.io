@@ -6,10 +6,23 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Data Analyst with a PhD in Physics and strong quantitative background, specialized in data analysis, statistical modeling, and computational problem-solving. Experienced in using Python Programming Language, SQL, and data visualization tools to extract insights from complex datasets and support data-driven decision-making. 
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+[PUBLICACIONES](https://edgargovea.github.io/edgarpgovea.github.io/publications/)
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+1. ‘Nonrelativistic Proca stars: Spherical stationary and multi-frequency states’
+Emmanuel Chávez Nambo, Alberto Diez-Tejedor, Edgar Preciado-Govea, Armando A. Roque, and Olivier Sarbach, Phys. Rev. D 111, 064065 
+
+2. ‘Linear stability of nonrelativistic proca stars’
+Emmanuel Chávez Nambo, Alberto Diez-Tejedor, Edgar Preciado-Govea, Armando A. Roque, and Olivier Sarbach
+
+‘Cosmic Energy Density: The Fermion Case’ 
+Cristian Armendariz-Picon, Alberto Diez-Tejedor, Edgar Preciado-Govea
+(por publicarse).
+
+3. **S. Apellido**  
+   *Preprint title*, arXiv:XXXX.XXXXX (Year).
+
 
 A data-driven personal website
 ======
