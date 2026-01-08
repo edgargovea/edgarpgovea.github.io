@@ -12,6 +12,6 @@ Using SQLite as the backend, the project focuses on extracting, transforming, an
 
 The full analysis, including queries, visualizations, and interpretations, is documented in a Jupyter Notebook available via NBViewer:
 
-👉 [Notebook:](https://nbviewer.org/github/USERNAME/https://github.com/edgargovea/sqlite-chinook-project/blob/main/notebooks/SQL_Querys.ipynb)
+👉 [Notebook:](https://nbviewer.org/github/edgargovea/sqlite-chinook-project/blob/main/notebooks/SQL_Querys.ipynb)
 
 This project is intended as a concise demonstration of applied data analysis skills, integrating SQL, Python, and exploratory data analysis in a reproducible and transparent manner.
