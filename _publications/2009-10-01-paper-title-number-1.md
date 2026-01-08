@@ -1,8 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "‘Nonrelativistic Proca stars: Spherical stationary and multi-frequency states’"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2009-10-01-Nonrelativistic-Proca-stars.md 
+authors: "Emmanuel Chávez Nambo, Alberto Diez-Tejedor, Edgar Preciado-Govea, Armando A. Roque, and Olivier Sarbachs"
+venue: "Physical Review D"
+date: 2023-06-15
+paperurl: "https://journals.aps.org/prd/abstract/10.1103/PhysRevD.XX.XXXXXX"
+arxiv: "https://arxiv.org/abs/2301.00000
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'
