@@ -8,7 +8,7 @@ redirect_from:
 ---
 Data Analyst with a PhD in Physics and strong quantitative background, specialized in data analysis, statistical modeling, and computational problem-solving. Experienced in using Python Programming Language, SQL, and data visualization tools to extract insights from complex datasets and support data-driven decision-making. 
 
-[PUBLICACIONES](https://edgargovea.github.io/edgarpgovea.github.io/publications/)
+[**Publications**](https://edgargovea.github.io/edgarpgovea.github.io/publications/)
 
 1. **‘Nonrelativistic Proca stars: Spherical stationary and multi-frequency states’**
 Emmanuel Chávez Nambo, Alberto Diez-Tejedor, Edgar Preciado-Govea, Armando A. Roque, and Olivier Sarbach, Phys. Rev. D 111, 064065
