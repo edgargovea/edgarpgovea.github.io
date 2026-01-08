@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Data Analysis Chinnok: Data-Base Chinook.db "
+excerpt: "Proyecto de práctica en SQLite usando la base de datos de ejemplo Chinook. item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
