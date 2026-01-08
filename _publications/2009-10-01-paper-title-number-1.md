@@ -1,5 +1,5 @@
 ---
-title: "‘Nonrelativistic Proca stars: Spherical stationary and multi-frequency states’"
+title: "Nonrelativistic Proca stars: Spherical stationary and multi-frequency states"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-Nonrelativistic-Proca-stars.md 
