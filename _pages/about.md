@@ -27,9 +27,11 @@ Cristian Armendariz-Picon, Alberto Diez-Tejedor, Edgar Preciado-Govea
 [Teaching](https://edgargovea.github.io/edgarpgovea.github.io/teaching/)
 ======
 01/2024 – 06/2024	Profesor de Curso, Universidad de Guanajuato
-¬Impartió el curso de Mecánica Clásica a nivel licenciatura. Creó materiales didácticos, usó herramientas computacionales en clase y realizó ejercicios de resolución de problemas, alineados con el currículo oficial. Evaluó el desempeño de los estudiantes mediante exámenes, cuestionarios y proyectos finales.
+
+Impartió el curso de Mecánica Clásica a nivel licenciatura. Creó materiales didácticos, usó herramientas computacionales en clase y realizó ejercicios de resolución de problemas, alineados con el currículo oficial. Evaluó el desempeño de los estudiantes mediante exámenes, cuestionarios y proyectos finales.
 
 06/2025 – 12/2025 - Profesor de Laboratorio, Universidad de Guanajuato
+
 Impartió el curso de laboratorio de Mecánica Ondulatoria, de Fluidos y Calor. Desarrolló el análisis estadístico de datos usando lenguaje de Programación Python y dirigió la elaboración de reportes técnicos. Realizó el seguimiento individual del desempeño estudiantil.
 
 
