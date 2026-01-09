@@ -34,6 +34,13 @@ Data Analyst with a PhD in Physics and strong quantitative background, specializ
    
    Impartió el curso de laboratorio de Mecánica Ondulatoria, de Fluidos y Calor. Desarrolló el análisis estadístico de datos usando lenguaje de Programación Python y dirigió la elaboración de reportes técnicos. Realizó el seguimiento individual del desempeño estudiantil.
 
+[**Portfolio**](https://edgargovea.github.io/edgarpgovea.github.io/portfolio/)
+======
+
+1. **Data Analysis Chinnok: Data-Base Chinook**:
+   This project analyzes the Chinook music store database using SQL and Python to uncover trends in sales, customers, and genres. 
+3. **Relativistic Boson Stars: Numerical Solutions**: 
+  This repository contains a project dedicated to characterizing numerical solutions for relativistic boson stars, both interacting and non-interacting cases (Massive Boson Stars and Mini-Boson Stars).
 
 Work Experience
 ======
