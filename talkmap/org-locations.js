@@ -10,13 +10,13 @@ var addressPoints = [
     -0.1277653
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Catedra Bogdan Mielnik: Quantum Fiel Theory in Curved Spacetimes: a modern perspective<br />; Cinvestav",
+    21.0218721,
+    -89.6268505
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "Gravitational Production of Fermions<br />XIV Escuela de la Division de Gravitaci\u00f3n y F\u00edsica Matem\u00e1tica de la Sociedad M\u00e9xicana de F\u00edsica; Playa del Carmen, M\u00e9xico",
+    20.6461095,
+    -87.0809021
   ]
 ];
