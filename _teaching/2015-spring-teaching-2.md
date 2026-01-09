@@ -1,7 +1,7 @@
 ---
-title: "Teaching experience 2"
+title: "Laboratory of Wave Mechanics, Fluid Mechanics, and Heat"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-2
 venue: "Universidad de Guanajuato"
 date: 2025-06-01
