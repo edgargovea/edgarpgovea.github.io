@@ -1,6 +1,6 @@
 ---
 title: "Data Analysis Chinnok: Data-Base Chinook.db "
-excerpt: "Proyecto de práctica en SQLite usando la base de datos de ejemplo Chinook. item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Proyecto de práctica en SQLite usando la base de datos de ejemplo Chinook. item number 1<br/><img src='/images/chinook.png'>"
 collection: portfolio
 ---
 
