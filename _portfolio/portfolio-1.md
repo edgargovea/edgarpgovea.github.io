@@ -1,7 +1,6 @@
 ---
 title: "Data Analysis Chinnok: Data-Base Chinook.db "
-excerpt: "Proyecto de práctica en SQLite usando la base de datos de ejemplo Chinook. item number
-<br/><img src='/images/500x300.png'>"
+excerpt: "Numerical solutions for relativistic boson stars in interacting and non-interacting regimes.<br/><img src='/images/Rel_Boson.png'>"
 collection: portfolio
 ---
 
