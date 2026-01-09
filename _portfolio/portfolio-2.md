@@ -1,8 +1,9 @@
 ---
 title: "Relativistic Boson Stars: Numerical Solutions  "
-excerpt: "This repository contains a project dedicated to characterizing numerical solutions for relativistic boson stars, both interacting and non-interacting cases (Massive Boson Stars and Mini-Boson Stars).
-<br/><img src='/images/Rel_Boson.png'>"
+excerpt: "This repository contains a project dedicated to characterizing numerical solutions for relativistic boson stars, both interacting and non-interacting cases (Massive Boson Stars and Mini-Boson Stars)."
 collection: portfolio
+header:
+  teaser: /images/Rel_Boson.png
 ---
 
 Compact objects like white dwarfs and neutron stars are part of the entities that populate the universe and play a role in astrophysical and cosmological observations. These objects belong to the family of compact fermionic objects that conform to the universe.
