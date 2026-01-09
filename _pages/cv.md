@@ -34,16 +34,16 @@ Current
   
 Skills
 ======
-* Data Analysis & Programming:
+* Data Analysis & Programming:  
 Python (Pandas, NumPy, SciPy) • SQL (SQLite, MySQL) • R • Jupyter Notebook • DBeaver
 
-* Data Visualization & BI:
+* Data Visualization & BI:  
   Matplotlib • Power BI • Excel
   
-* Analytical Methods:
+* Analytical Methods:  
 Statistical analysis • Numerical and analytical methods
 
-* Other Tools:
+* Other Tools:  
 Git • LaTeX • Wolfram Mathematica
 
 * English: Upper-intermediate (B2, TOEFL), proficiency in technical reading and writing
