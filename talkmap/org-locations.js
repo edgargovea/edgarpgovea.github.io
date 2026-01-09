@@ -1,6 +1,6 @@
 var addressPoints = [
   [
-    "Non-relativistic Proca Stars<br />TF\u00edsica y Gravedad Cuantica 2024:  Divisi\u00f3n de Ciencias e Ingenierias UG; L\u00e9on, M\u00e9xico",
+    "Non-relativistic Proca Stars<br />F\u00edsica y Gravedad Cuantica 2024:  Divisi\u00f3n de Ciencias e Ingenierias UG; L\u00e9on, M\u00e9xico",
     26.2384363,
     -99.8873
   ],
