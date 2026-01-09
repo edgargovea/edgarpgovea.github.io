@@ -46,6 +46,7 @@ Revisión y desarrollo de código para el análisis numérico mediante lenguaje 
 Education
 ======
 
-2021-2025		Phd in Physics, Universidad de Guanajuato
+2021-2025		      **Phd in Physics**, Universidad de Guanajuato
+
 Título de tesis: 		‘Fermionic and Bosonic Dark Matter Models’ : A combination of analytical, numerical, and computational methods for solving astrophysical compact objects and analyzing the gravitational particle production of scalar and fermionic dark matter.
 
