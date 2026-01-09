@@ -26,13 +26,13 @@ Data Analyst with a PhD in Physics and strong quantitative background, specializ
 
 [Teaching](https://edgargovea.github.io/edgarpgovea.github.io/teaching/)
 ======
-1. 01/2024 – 06/2024	**Profesor de Curso**, Universidad de Guanajuato
-   
-   Impartió el curso de Mecánica Clásica a nivel licenciatura. Creó materiales didácticos, usó herramientas computacionales en clase y realizó ejercicios de resolución de problemas, alineados con el currículo oficial. Evaluó el desempeño de los estudiantes mediante exámenes, cuestionarios y proyectos finales.
+* **Classical Mechanics**  
+_Undergraduate course_, Universidad de Guanajuato, 2024  
+Taught Classical Mechanics at the undergraduate level. Developed instructional materials, incorporated computational tools into lectures, and designed problem-solving exercises aligned with the official curriculum. Assessed student performance through exams, quizzes, and final projects.
 
-2. 06/2025 – 12/2025  **Profesor de Laboratorio**, Universidad de Guanajuato
-   
-   Impartió el curso de laboratorio de Mecánica Ondulatoria, de Fluidos y Calor. Desarrolló el análisis estadístico de datos usando lenguaje de Programación Python y dirigió la elaboración de reportes técnicos. Realizó el seguimiento individual del desempeño estudiantil.
+* **Laboratory of Wave Mechanics, Fluid Mechanics, and Heat**  
+_Undergraduate course_, Universidad de Guanajuato, 2025  
+Taught laboratory course in Wave Mechanics, Fluid Mechanics, and Heat. Conducted statistical data analysis using Python and supervised the preparation of technical laboratory reports.
 
 [**Portfolio**](https://edgargovea.github.io/edgarpgovea.github.io/portfolio/)
 ======
