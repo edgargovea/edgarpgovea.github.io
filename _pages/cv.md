@@ -47,6 +47,15 @@ Statistical analysis • Numerical and analytical methods
 Git • LaTeX • Wolfram Mathematica
 
 * English: Upper-intermediate (B2, TOEFL), proficiency in technical reading and writing
+* 
+**Certifications and continuos trainig**
+======
+*	Advanced Data Laboratory (Python and SQL) – Universidad de Guanajuato
+*	Data Science Fundamentals with Python and SQL – IBM (Coursera)
+Statistics for Data Science, SQL Databases, Data Analysis and Visualization
+*	Python for Everybody – University of Michigan (Coursera)
+Python Data Structures, Databases with Python, Data Visualization
+*	Introduction to the Wolfram Language – Wolfram U 
 
 
 Publications
