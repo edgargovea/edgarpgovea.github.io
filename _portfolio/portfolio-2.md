@@ -16,5 +16,5 @@ Although the cold dark matter model (CDM) within the standard cosmological model
 
 If dark matter is composed of boson particles in a Bose-Einstein condensate (as in boson stars), these problems might be mitigated. Boson and Proca star phenomenology could address the cusp and missing satellite problems.
 
-[Notebook](https:///nbviewer.org/github.com/edgargovea/Relativistic-Boson-Stars/blob/main/Notebooks/mini_boson_star_and_Massive_Boson_star.ipynb) | [Respository](https://github.com/edgargovea/Relativistic-Boson-Stars/tree/main)
+[Notebook](https:///nbviewer.org/github/edgargovea/Relativistic-Boson-Stars/blob/main/Notebooks/mini_boson_star_and_Massive_Boson_star.ipynb) | [Respository](https://github.com/edgargovea/Relativistic-Boson-Stars/tree/main)
 ---
