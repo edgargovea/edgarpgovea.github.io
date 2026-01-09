@@ -5,9 +5,9 @@ var addressPoints = [
     -118.242766
   ],
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "Taller de Verano en Gravedad y Cosmolog\u00eda 2024: Herramientas de programaci\u00f3n y estad\u00edstica<br />Unidad academica de f\u00edsica de la Universidad Autonoma de Zacatecas; Zacatecas, M\u00e9xico",
+    23.0916177,
+    -102.9333954
   ],
   [
     "Catedra Bogdan Mielnik: Quantum Fiel Theory in Curved Spacetimes: a modern perspective<br />; Cinvestav",
