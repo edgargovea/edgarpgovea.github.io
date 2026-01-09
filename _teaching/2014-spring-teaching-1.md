@@ -4,13 +4,13 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Universidad de Guanajuato"
-date: 2014-01-01
+date: 2024-01-01
 location: "Leon, Guanajuato"
 ---
 
 Classical Mechanics
 ======
-University of Guanajuato
+University of Guanajuato  
 1/2024 – 06/2024
 
 Taught Classical Mechanics at the undergraduate level.
