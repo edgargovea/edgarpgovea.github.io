@@ -8,11 +8,6 @@ date: 2024-01-01
 location: "Leon, Guanajuato"
 ---
 
-Classical Mechanics
-======
-University of Guanajuato  
-1/2024 – 06/2024
-
 Taught Classical Mechanics at the undergraduate level.
 Developed instructional materials, incorporated computational tools into lectures, and designed problem-solving exercises aligned with the official curriculum.
 Assessed student performance through exams, quizzes, and final projects.
