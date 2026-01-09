@@ -2,19 +2,16 @@
 title: "Teaching experience 2"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+permalink: /teaching/2015-spring-teaching-2
+venue: "Universidad de Guanajuato"
+date: 2025-06-01
+location: "León, Guanajuato"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Laboratory of Wave Mechanics, Fluid Mechanics, and Heat
+=================
+University of Guanajuato  
+06/2025 – 12/2025
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Taught laboratory course in Wave Mechanics, Fluid Mechanics, and Heat.
+Conducted statistical data analysis using Python and supervised the preparation of technical laboratory reports.
