@@ -47,8 +47,8 @@ Statistical analysis • Numerical and analytical methods
 Git • LaTeX • Wolfram Mathematica
 
 * English: Upper-intermediate (B2, TOEFL), proficiency in technical reading and writing
-* 
-**Certifications and continuos trainig**
+  
+Certifications and continuos trainig
 ======
 *	Advanced Data Laboratory (Python and SQL) – Universidad de Guanajuato
 *	Data Science Fundamentals with Python and SQL – IBM (Coursera)
